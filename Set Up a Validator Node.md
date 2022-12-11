@@ -215,3 +215,24 @@ Run this command
 ```
 docker-compose up -d
 ```
+
+## **Update Your Node**
+
+*This process is only carried out if there is a change or update to existing data*
+
+Run this command
+
+```
+cd $HOME/testnet-public-tools/testnet-validator
+git stash && git pull
+git stash apply && docker-compose pull
+docker-compose up -d
+```
+
+## **Check Log**
+
+Run this command
+
+```
+docker-compose logs -f --tail "100"
+```
