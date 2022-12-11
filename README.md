@@ -27,3 +27,13 @@ Given this, the user needs to run and maintain a Q client acting as validator on
 
 Quality behavior and fraud will be monitored and tracked for each participant (see monitoring phase below for further details). Only eligible users will be 
 considered for rewards and the potential KYC process at Q Development.
+
+# Social Media
+
+[Twitter](https://twitter.com/QBlockchain)
+
+[Discord](https://discord.gg/d46ba3fcF9)
+
+[Medium](https://medium.com/q-blockchain)
+
+[Reddit](https://www.reddit.com/r/QBlockchain/)
