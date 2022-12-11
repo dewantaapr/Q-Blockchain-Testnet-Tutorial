@@ -14,7 +14,17 @@ The Q Development AG is managing this as an incentive reward for active communit
 
 To educate about Q Consensus, diversify the validator set and provide validators the utility to run a mainnet validator and take part in Q governance.
 
-# How much
+# How
+
+## Register
+
+You can register here: https://itn.qdev.li/
+
+## Set Up Your Validator
+
+You can find the tutorial here: https://github.com/dewantaapr/QBlockchain-Incentivized-Testnet-Program/blob/main/Set%20Up%20a%20Validator%20Node.md
+
+# How Much
 
 The exact amount of rewards in Q Tokens per participant is not finalized. 
 The amount will be selected to cover the cost for maintaining a Q client 
