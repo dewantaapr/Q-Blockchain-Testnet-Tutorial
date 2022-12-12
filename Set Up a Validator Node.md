@@ -80,7 +80,7 @@ Path of the secret key file: /data/keystore/UTC--0000-00-00000-00-00.0000000--00
 #### **Export The Private Key**
 
 ```
-cd testnet-public-tools
+cd $HOME/testnet-public-tools
 chmod +x run-js-tools-in-docker.sh
 ./run-js-tools-in-docker.sh
 npm install
